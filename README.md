@@ -1,4 +1,19 @@
-Olá a todos, me chamo Arthur Lima, tenho 20 anos e estou iniciando minha vida na programação.
-Sou de Brasília e faço faculdade de Ciências da computação.
-Estou começando agora a montar meu portifólio!! Novidades em breve kk
+##Olá a todos, me chamo Arthur Lima
 
+##Estou aprendendo
+
+            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+			
+            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+          
+            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+			
+            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+          
+          
+			
+            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+          
+            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+			
+          
