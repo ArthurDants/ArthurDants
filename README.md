@@ -5,8 +5,5 @@
 
 
 <a href="https://www.linkedin.com/in/arthur-dantas-a1921b238/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-        
-        
-
-
-![octocat-1683850613843](https://github.com/ArthurDants/ArthurDants/assets/116929582/8a1928b4-29b9-40d7-bea4-9cf03f7d13e5)" width="40" height="40"
+ 
+![security](https://github.com/ArthurDants/ArthurDants/assets/116929582/84b862ab-2f54-437f-aa1d-91cc294790cf)
