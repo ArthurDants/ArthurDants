@@ -9,4 +9,4 @@
         
 
 
-<img src="![octocat-1683850613843](https://github.com/ArthurDants/ArthurDants/assets/116929582/8a1928b4-29b9-40d7-bea4-9cf03f7d13e5)" width="40" height="40" />
+![octocat-1683850613843](https://github.com/ArthurDants/ArthurDants/assets/116929582/8a1928b4-29b9-40d7-bea4-9cf03f7d13e5)" width="40" height="40"
